@@ -38,3 +38,5 @@ The following three assets were added as part of my assignment:
 
 ### 🧠 Reflection
 This activity helped me evaluate real-world device risk and practice assigning security classifications based on context. It reinforced the value of thorough documentation for cybersecurity planning.
+
+![Home Network Asset Chart](home-network-chart.png)
