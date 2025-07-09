@@ -1,4 +1,4 @@
-## 📘 Google Cybersecurity Course 5 Assignment Overview 
+## 📘 Google Cybersecurity Certificate Assignment Overview 
 This project classifies assets connected to a home office network. Asset management is the process of tracking assets and the risks that affect them. It's a critical part of every organization's security plan. Effective asset management starts with creating an asset inventory, or a catalog of assets that need to be protected. Then, it involves classifying assets based on their level of importance and sensitivity to risk. The task was to create a home network asset inventory that demonstrates asset management and sensitivity classification.
 
 ## ✅ What’s Included
