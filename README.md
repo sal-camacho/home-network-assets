@@ -1,4 +1,4 @@
-## Activity Overview 
+# Activity Overview 
 This project classifies assets connected to a home office network. Asset management is the process of tracking assets and the risks that affect them. It's a critical part of every organization's security plan. Effective asset management starts with creating an asset inventory, or a catalog of assets that need to be protected. Then, it involves classifying assets based on their level of importance and sensitivity to risk. The task was to create a home network asset inventory that demonstrates asset management and sensitivity classification.
 
 ## What’s Included
@@ -25,9 +25,9 @@ This project classifies assets connected to a home office network. Asset managem
 | Streaming Media Player | Continuous | Homeowner           | On-premises         | Payment card information is stored for movie rentals                        | Internal-only    |
 | Portable Game Console  | Occasional | Friend              | On and off-premises | Has a camera and microphone                                                 | Internal-only    |
 
-## My Contributions
-
 ---
+
+## My Contributions
 
 The following three assets were added as part of my assignment:
 
@@ -39,9 +39,14 @@ The following three assets were added as part of my assignment:
 | Smart Watch   | Occasional | Homeowner | On and Off-premises| Contains private information, like payment information           | Confidential     |
 | Smart TV      | Occasional | Homeowner | On-premises        | Contains private information, like login credentials to apps     | Internal-only    |
 
-### Reflection
+## Reflection
 This activity helped me evaluate real-world device risk and practice assigning security classifications based on context. It reinforced the value of thorough documentation for cybersecurity planning.
 
 ---
+
+## Home Asset Inventory
+
+![Home Asset Inventory](images/home-asset-inventory.png)
+
 
 ![Home Network Asset Chart](home-network-chart.png)
