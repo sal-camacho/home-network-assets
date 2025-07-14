@@ -1,6 +1,8 @@
 # Activity Overview 
 This project classifies assets connected to a home office network. Asset management is the process of tracking assets and the risks that affect them. It's a critical part of every organization's security plan. Effective asset management starts with creating an asset inventory, or a catalog of assets that need to be protected. Then, it involves classifying assets based on their level of importance and sensitivity to risk. The task was to create a home network asset inventory that demonstrates asset management and sensitivity classification.
 
+---
+
 ## What’s Included
 - Sensitivity categories legend
 - Examples plus 3 original entries
@@ -44,9 +46,7 @@ This activity helped me evaluate real-world device risk and practice assigning s
 
 ---
 
-## Home Asset Inventory
-
+## Screenshot of Completed Spreadsheet
 ![Home Asset Inventory](images/home-asset-inventory.png)
-
-
-![Home Network Asset Chart](home-network-chart.png)
+> This image captures the full response submitted as part of the Google Cybersecurity Certificate incident report activity.   
+<img width="1513" height="949" alt="Home asset inventory screenshot" src="https://github.com/user-attachments/assets/dbea2021-eb1c-4a5b-85f4-937fd83355b2" />
